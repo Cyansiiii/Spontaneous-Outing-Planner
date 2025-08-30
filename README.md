@@ -13,6 +13,8 @@ Creative Narratives: Generates detailed, atmospheric itineraries with timing and
 User-Friendly Input: Intuitive form for entering vibe and location preferences.
 One-Click Generation: Produces complete itineraries with venue details (ratings, addresses) in a single click.
 
+Website Link -https://spontaneous-outing-planner.netlify.app/
+
 Technical Stack
 
 Frontend: React with modern CSS and a clean component architecture.
@@ -98,4 +100,4 @@ Contributions are welcome! Please fork the repository, create a new branch, and 
 License
 This project is licensed under the MIT License. See the LICENSE file for details.
 Contact
-For questions or feedback, reach out via GitHub Issues or contact the maintainer at [your-email@example.com].
+For questions or feedback, reach out via GitHub Issues or contact the maintainer at [anantanandam8340@gmail.com].
