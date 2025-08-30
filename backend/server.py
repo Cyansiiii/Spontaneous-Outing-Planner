@@ -91,7 +91,7 @@ async def search_foursquare_venues(query: str, location: str, limit: int = 10) -
 async def generate_with_gemini(prompt: str) -> str:
     """Generate content using Gemini API"""
     try:
-        model = genai.GenerativeModel('gemini-pro')
+        model = genai.GenerativeModel('gemini-1.5-flash')
         response = await asyncio.to_thread(model.generate_content, prompt)
         return response.text
     except Exception as e:
